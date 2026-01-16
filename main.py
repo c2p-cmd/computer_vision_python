@@ -1,5 +1,5 @@
 def main():
-    print("Hello from computer-vision-jax-mlx!")
+    print("Hello from computer-vision-python!")
 
 
 if __name__ == "__main__":
