@@ -1,0 +1,1 @@
+clang++ plate_detector.cpp -o plate_detector `pkg-config --cflags --libs opencv4`; ./plate_detector
