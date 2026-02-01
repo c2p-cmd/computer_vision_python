@@ -1,0 +1,1 @@
+clang++ face_detection.cpp -o face_detection `pkg-config --cflags --libs opencv4`; ./face_detection
