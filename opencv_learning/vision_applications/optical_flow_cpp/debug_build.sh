@@ -1,0 +1,1 @@
+time clang++ optical_flow.cpp -o optical_flow `pkg-config --cflags --libs opencv4`; ./optical_flow
