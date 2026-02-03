@@ -18,3 +18,5 @@ checkpoints/
 
 resources/CATS_DOGS/
 resources/CATS_DOGS.zip
+
+*.npz
